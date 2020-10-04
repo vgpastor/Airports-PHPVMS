@@ -8,7 +8,12 @@
 ## Colaborate
 Please create an issue if you detect any problem or if you like to add new airports.
 Feel free to create a PR to upgrade de database.
+
+### Thanks
+This database are based in https://github.com/eliezerazevedo/Airports-PHPVMS Database
+
 ---
+
 # Base de datos aeropuertos PHPVMS 7
 41724 aeropuertos listos para importar en PHPVMS 7
 
@@ -19,3 +24,6 @@ Feel free to create a PR to upgrade de database.
 ## Colabora
 Por favor si detectas algún error crea un "issue" con los detalles para poder actualizarlo.
 Sientete libre de crear un PR si quieres agregar tu mismo contenido al fichero.
+
+### Thanks
+Esta base de datos está basada en el proyecto de https://github.com/eliezerazevedo/Airports-PHPVMS Database
